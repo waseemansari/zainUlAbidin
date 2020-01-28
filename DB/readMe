@@ -1,0 +1,14 @@
+git clone https://github.com/waseemansari/zainUlAbidin.git
+
+
+go to repository
+
+
+install composer  in this repository
+  
+cp .env.example .env
+php artisan key:generate
+
+
+sir g es k bad jo file DB folder ma pari ha .env ki es ko main root ma pary file .env se replace kr dyna ha 
+phir DB folder se database se upload kr lyna ha 
